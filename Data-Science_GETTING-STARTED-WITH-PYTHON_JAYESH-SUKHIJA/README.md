@@ -1,0 +1,1 @@
+The project is to manage the student's record for the University of Data Science.
